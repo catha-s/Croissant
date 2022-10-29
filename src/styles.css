@@ -1,7 +1,10 @@
 body {
   padding: 0 10em;
+  background-color: #eeeeee;
 }
 
 nav {
   margin-bottom: 20px;
+  background-color: #c0bfbf;
+  border-radius: 0 0 5px 5px;
 }
